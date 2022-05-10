@@ -4,15 +4,16 @@
 
 - Framework: Flutter
 - Architecture: MVVM
+ - State Management: Stacked
 - Backend: Api
-- State Management: Stacked
+
 
 ## Features
 
-- User can Login/Register into the app.
-- Browse all the items available and add them to cart.
-- Fill the Order form and place Order.
-- Incase Usser logs into the app from another device he will have to force logout from the previous device and relogin because the token will expire.
+- User can Login/Register into the app  with proper validation.
+- Browse all the items available and add them to cart for futher order placement.
+- Fill the Order form  place Order and checkout .
+- Incase Usser logs into the app from another device he will have to force logout from the previous device and have to login again  because the token will expire.
 
 ## ScreenShots:
 
