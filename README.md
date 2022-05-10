@@ -16,6 +16,4 @@
 
 ## ScreenShots:
 
-<img src="https://user-images.githubusercontent.com/95017090/164709332-45b551a8-56d9-4f19-8db1-cb728bb20fc7.png" width="200">
-
 
