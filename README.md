@@ -1,6 +1,6 @@
 # MY SHOP
 
-## An Ecommerce app to buy groceries
+## An Ecommerce app to buy groceries Products
 
 - Framework: Flutter
 - Architecture: MVVM
