@@ -4,8 +4,7 @@
 
 - Framework: Flutter
 - Architecture: MVVM
- - State Management: Stacked
-- Backend: Api
+
 
 
 ## Features
