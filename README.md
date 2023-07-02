@@ -24,6 +24,7 @@
 
 
 
-## More about mobile application development with Flutter Visit : [App Development With Flutter]([https://github.com](https://www.bhandari-suraj.com.np/)https://www.bhandari-suraj.com.np/)
+## More about mobile application development with Flutter
+Visit: [App Development With Flutter](https://www.bhandari-suraj.com.np/)
 
 
